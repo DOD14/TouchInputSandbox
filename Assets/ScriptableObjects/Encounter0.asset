@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d31706d2e6ba475db11be3a20f24dd0, type: 3}
+  m_Name: Encounter0
+  m_EditorClassIdentifier: 
+  myNumber: 0
+  cubeHP: 100
+  cubeATK: 30
+  cubeDEF: 20
+  sphereHP: 150
+  sphereATK: 45
+  sphereDEF: 5
+  cubeColor: {fileID: 2100000, guid: b45bf7b6064014a689a7328d156db1c6, type: 2}
+  sphereColor: {fileID: 2100000, guid: 55971b677b776468eb916bb0e3de6afe, type: 2}
